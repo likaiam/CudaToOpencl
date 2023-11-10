@@ -1,2 +1,2 @@
 # CudaToOpencl
-cuda
+cuda to opencl transformation automatically
